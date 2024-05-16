@@ -1,0 +1,14 @@
+body {
+    margin: 10px;
+    padding: 7px;
+    height: auto;
+    background-color: rgb(218, 147, 218);
+    border-radius: 2px;
+    border-color: rgb(211, 57, 203);
+}
+h1 {
+    color: rgb(236, 80, 88);
+}
+p {
+    color: purple;
+}
