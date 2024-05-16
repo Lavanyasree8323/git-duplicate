@@ -1,0 +1,15 @@
+body {
+    margin: 10px;
+    padding: 10px;
+    height: auto;
+    color: rgb(221, 152, 221);
+}
+hr {
+    color: rgb(62, 7, 114);
+}
+h1 {
+    color: blueviolet;
+}
+p {
+    color: rgb(196, 18, 196);
+}
